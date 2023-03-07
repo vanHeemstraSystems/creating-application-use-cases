@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Computing - Use Cases](README.md)
+* [Creating Application - Use Cases](README.md)
