@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Learning Computing - Use-Cases"
+  title: "Creating Application - Use-Cases"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - cloud-computing.qmd
+      - saas-application.qmd
 
 format:
   html:
